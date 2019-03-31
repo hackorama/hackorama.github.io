@@ -4,6 +4,8 @@
 
 [POK3R User Manual](http://www.vortexgear.tw/db/upload/webdata4/6vortex_20166523361966663.pdf) (2016)
 
+![Keyboard Layout](img/pok3r_rgb_keyboard_layout.png)
+
 ## DIP Switches
 
 | Switch | State | Notes|
