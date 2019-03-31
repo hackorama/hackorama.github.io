@@ -33,9 +33,9 @@ Choose layout
 
 <kbd>Ctrl</kbd> <kbd>Win </kbd> <kbd>Alt </kbd> <kbd>       Space   ...      bar     </kbd> <kbd>Alt </kbd> <kbd>Win [FN]</kbd> <kbd>Menu [PN]</kbd> <kbd>Ctrl</kbd>
 
-**<kbd>FN</kbd>** Function 
+**<kbd>FN</kbd>** Function
 
-**<kbd>PN</kbd>** Programming 
+**<kbd>PN</kbd>** Programming
 
 Default Dip Switch 3 off
 
@@ -64,10 +64,7 @@ With Dip Switch 3 On
 
 Enable/disable arrow key cluster
 
-| | |
-|---|---|
-| Win | <kbd>Left Alt</kbd> + <kbd>Spacebar</kbd> + <kbd>Right Alt</kbd> |
-| Mac | <kbd>⌥ Left Option</kbd> + <kbd>Spacebar</kbd> + <kbd>⌘ Right Command</kbd> |
+<kbd>Left Win</kbd> + <kbd>Spacebar</kbd> + <kbd>Right Alt</kbd>
 
 | | |
 |---|---|
@@ -80,7 +77,7 @@ Enable/disable arrow key cluster
 
 ### To make <kbd>FN</kbd> + <kbd>3</kbd> to print hackorama with enter at the end
 
-Turn off arrow keys cluster if enabled so that we can use the <kbd>PN</kbd> key whihc is part of the arrpow cluster.
+Turn off arrow keys cluster if enabled so that we can use the <kbd>PN</kbd> key which is part of the arrow cluster.
 
 | Press | Does | Right LED |
 |---|---|---|
@@ -175,7 +172,7 @@ Press <kbd>Right Alt</kbd> + <kbd>R</kbd>
 
 ## Media control
 
-| prev | play/pause | next | 
+| prev | play/pause | next |
 |---|---|---|
 |<kbd>Q</kbd> |<kbd>W</kbd> | <kbd>E</kbd> |
 
