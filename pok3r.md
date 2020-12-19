@@ -97,7 +97,6 @@ Turn off arrow keys cluster if enabled so that we can use the <kbd>PN</kbd> key 
 | Press | Does | Right LED |
 |---|---|---|
 | <kbd>FN</kbd> + <kbd><,</kbd> |Switch to second layer | OFF |
-| <kbd>FN</kbd> + <kbd>,</kbd> |Switch to second layer | OFF |
 | <kbd>FN</kbd> + <kbd>Right Control</kbd>| Enter Programming Mode| ON |
 | <kbd>Left Alt</kbd> | The key you want to program | FLASH |
 | <kbd>Left Windows</kbd> | Enter all the macro content keys | FLASH |
@@ -159,7 +158,7 @@ Press <kbd>Right Alt</kbd> + <kbd>R</kbd>
 | | |
 |---|---|
 | <kbd>FN</kbd> + <kbd>H</kbd> | <kbd>Home</kbd> |
-| <kbd>FN</kbd> + <kbd>E</kbd> | <kbd>End</kbd> |
+| <kbd>FN</kbd> + <kbd>N</kbd> | <kbd>End</kbd> |
 
 | | |
 |---|---|
